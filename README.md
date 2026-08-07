@@ -1,27 +1,23 @@
-# Fares Khzouz
+#Fares Khzouz
+Computer Engineering Student | Cybersecurity
 
-CpE student focused on CyberSecurity, Security Operations, Threat Detection, and Governance Risk & Compliance.
+Focused on:
+• Security Operations
+• Threat Detection
+• SIEM
+• GRC / Risk Assessment
+• Network Security
 
-## Skills
+Featured Projects:
 
-- SIEM: Splunk
-- GRC: ISO 27001, Risk Assessment
-- Networking: CCNA
-- Security Tools: Kali Linux, Wireshark, Metasploit
-- Programming: Python, Bash
+🛡️ GRC Security Assessments
+Windows 7 • Windows 10 • Kali Linux
 
-## Cybersecurity Projects
+📊 Splunk SIEM Threat Detection
+Windows Event Logs • SPL • Detection • Investigation
 
-🔹 ISO 27001 Windows Security Assessment  
-🔹 Splunk SIEM Threat Detection Lab  
+💀 Metasploitable2 Pentest Series
+Vulnerability Assessment • Exploitation • Remediation
 
-## Certifications & Training
-
-- Cybersecurity Bootcamp
-- CybersMind Cybersecurity Training
-- CCNA (in progress)
-- Security+ (planned)
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/fareskhzouz/
+🤖 Mr. Robot
+Web Security • Privilege Escalation • Post-Exploitation
