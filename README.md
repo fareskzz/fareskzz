@@ -24,5 +24,4 @@ Cybersecurity student focused on Security Operations, Threat Detection, and Gove
 
 ## Contact
 
-LinkedIn:
-GitHub:
+LinkedIn: https://www.linkedin.com/in/fareskhzouz/
