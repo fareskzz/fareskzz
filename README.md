@@ -1,4 +1,4 @@
-#Fares Khzouz
+Fares Khzouz
 Computer Engineering Student | Cybersecurity
 
 Focused on:
