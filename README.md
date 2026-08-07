@@ -1,6 +1,6 @@
 # Fares Khzouz
 
-Cybersecurity student focused on Security Operations, Threat Detection, and Governance Risk & Compliance.
+CpE student focused on CyberSecurity, Security Operations, Threat Detection, and Governance Risk & Compliance.
 
 ## Skills
 
